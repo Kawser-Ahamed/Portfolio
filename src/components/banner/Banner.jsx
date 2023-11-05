@@ -1,4 +1,4 @@
-import Navbar from "../header/Navbar";
+import Navbar from "../Header/Navbar";
 import logo from '../../assets/Kawser4.png'
 import '../../css/style.css'
 import AOS from 'aos';
