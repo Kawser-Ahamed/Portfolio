@@ -1,7 +1,7 @@
-import Header from "../Header/Header";
-import Expertise from "../body/Expertise";
-import Message from "../body/Message";
-import ProgrammingSkills from "../body/ProgrammingSkills";
+import Header from '../components/Header/Header';
+import Expertise from '../components/body/Expertise';
+import ProgrammingSkills from '../components/body/ProgrammingSkills';
+import Message from '../components/body/Message';
 
 const Homepage = () => {
     return (
