@@ -10,7 +10,7 @@ const ProgrammingSkills = () => {
     },[])
     return (
         <div>
-            <div className="h-full w-screen bg-gray-800">
+            <div className="h-full w-full bg-gray-800">
                 <div className="flex flex-col justify-center items-center py-10">
                     <div className="h-32 w-1 stick"></div>
                     <h1 className="text-white text-3xl font-serif">Programming Skill</h1>

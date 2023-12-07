@@ -2,6 +2,7 @@ import Header from '../components/Header/Header';
 import Expertise from '../components/body/Expertise';
 import ProgrammingSkills from '../components/body/ProgrammingSkills';
 import Message from '../components/body/Message';
+import Footer from './body/footer';
 
 const Homepage = () => {
     return (
@@ -15,6 +16,9 @@ const Homepage = () => {
             </section>
             <section>
                 <Message></Message>
+            </section>
+            <section>
+                <Footer></Footer>
             </section>
         </div>
     );

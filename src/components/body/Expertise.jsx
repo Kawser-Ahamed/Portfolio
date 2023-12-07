@@ -10,7 +10,7 @@ const Expertise = () => {
         AOS.init({duration:2500});
     },[])
     return (
-        <div className="expertise-bg w-screen">
+        <div className="expertise-bg w-full">
             <h1 className="text-center text-3xl lg:text-5xl text-white font-serif py-10">My Expertise</h1>
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-5 lg:ms-20 ms-4">
                 <div className="h-80 w-80 lg:h-96 lg:w-80 flex flex-col gap-5 expertise-container" data-aos="fade-right">
